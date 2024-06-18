@@ -3,3 +3,4 @@
 
 - <b>TryHackMe Wireshark Labs</b>
   - [Wireshark: The Basics](https://github.com/Finley-Klee/Wireshark-The-Basics)
+  - [Wireshark: Packet Operations] (https://github.com/Finley-Klee/Wireshark-Packet-Operations)
