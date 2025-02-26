@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finley! <br/><a href="https://www.linkedin.com/in/finleyklee/">Cybersecurity Student</a>, 
+<h1>Hi, I'm Finley! <br/><a href="https://www.linkedin.com/in/finleyklee/">Cybersecurity Student</a> 
 
   <h2>💻 IT Support Projects:</h2>
 
@@ -6,7 +6,7 @@
   - [Partitioning and Formatting a Disk Drive in Windows](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Windows)
   - [Partitioning and Formatting a Disk Drive in Linux](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Linux)
  
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>TryHackMe Learning Paths</b>
   - [The Complete Beginner Path](https://github.com/Finley-Klee/TryHackMe-Complete-Beginner-Pathway)
