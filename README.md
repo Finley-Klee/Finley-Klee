@@ -4,7 +4,7 @@
 
 - <b>Google IT Support Specialist Labs</b>
   - [Partitioning and Formatting a Disk Drive in Windows](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Windows)
-  - [Partitioning and Formatting a Disk Drive in Linux]()
+  - [Partitioning and Formatting a Disk Drive in Linux](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Linux)
  
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
