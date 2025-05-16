@@ -12,12 +12,11 @@
 - <b>TryHackMe Learning Paths</b>
   - [Cyber Security 101](https://github.com/Finley-Klee/TryHackMe-Complete-Beginner-Pathway)
 
+
 - <b>Wireshark Labs</b>
   - [Wireshark: The Basics](https://github.com/Finley-Klee/Wireshark-The-Basics)
   - [Wireshark: Packet Operations](https://github.com/Finley-Klee/Wireshark-Packet-Operations)
 
-- <b>Burp Suite Module</b>
-  - [Burp Suite: The Basics](https://github.com/Finley-Klee/Burp-Suite-The-Basics)
 
 - <b>Network Exploitation Basics</b>
   - [Nmap](https://github.com/Finley-Klee/Nmap)
