@@ -6,6 +6,7 @@
   - [Partitioning and Formatting a Disk Drive in Windows](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Windows)
   - [Partitioning and Formatting a Disk Drive in Linux](https://github.com/Finley-Klee/Partitioning-and-Formatting-a-Disk-Drive-in-Linux)
   - [Configuring DNS and DHCP with dnsmasq](https://github.com/Finley-Klee/DNS-and-DHCP)
+  - [Encrption with OpenSSL](https://github.com/Finley-Klee/Encryption-with-OpenSSL)
  
 <h2>🔒 Cybersecurity Projects:</h2>
 
