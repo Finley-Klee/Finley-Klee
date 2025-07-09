@@ -22,4 +22,4 @@
 - <b>Network Exploitation Basics</b>
   - [Nmap](https://github.com/Finley-Klee/Nmap)
   - [Network Services](https://github.com/Finley-Klee/Network-Services)
-  - [Network Services 2](https://github.com/Finley-Klee/Network-Services-2)
+
